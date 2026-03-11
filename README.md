@@ -1,27 +1,75 @@
 <br/>
 
-## Team Building Philosophy & Approach
-As a leader in Data Analytics & Business Intelligence, I focus heavily on empowering teams, leveraging data to drive decisions, and fostering cross-functional collaboration to achieve strategic business goals.
+## Modern BI Strategy
+Modern BI teams sit at the intersection of engineering, product, and business strategy. The goal is not simply to build dashboards, but to create reliable data products that help organizations make decisions faster and with greater confidence.
 
-1. Empowering Teams :
-I believe in developing teams by aligning their growth with business objectives. By fostering a self-sufficient, engaged workforce, I aim to create an environment where individuals are empowered to make and drive impactful decisions. I base the success of my leadership on higher engagement and professional growth for my team members.
+Guiding Principle: As BI evolves, the role of analytics teams is shifting from report builders to data product engineers.
+The core philosophy behind this strategy is simple - Move business logic and metric definitions upstream so that reporting layers remain lightweight, scalable, and reliable.
 
-2. Data-Driven Leadership : 
-I use data as the foundation for decision-making and strategic initiatives. Whether through automation, KPI development, or advanced analytics tools, my leadership has driven cost savings and operational efficiencies, proving the value of data-driven strategies.
+When logic is centralized in the data layer :
+* Metrics become standardized
+* Reports become faster and easier to maintain
+* Self-service analytics becomes possible
+* AI and advanced analytics become easier to enable
+<br/>
 
-3. Collaboration for Innovation : 
-I value cross-functional collaboration to unlock creative solutions and deliver measurable results. By building strong relationships across departments, I’ve successfully led initiatives such as developing KPI dashboards and automating workflows that have significantly improved performance.
-
-4. Adaptability and Continuous Learning : 
-I believe in the importance of continuous learning and adaptability in a rapidly evolving field. By fostering a culture of curiosity and embracing new tools and technologies, I ensure my team remains agile and equipped to meet future challenges.
-
-5. People-Driven Results : 
-While focused on delivering measurable outcomes, I lead with a people-first approach, creating an inclusive environment where team members feel valued and motivated. This balance of results and people-centric leadership has consistently led to improved team performance.
+![](images/BI%20Arch%20-%20Framework.jpg)
 
 <br/>
 
-## Project Examples
+## Delivery Model: BI as a Product vs BI as a Service
+Oftentimes, organizations struggle with the balance between BI as a Product (BIaaP) and BI as a Service (BIaaS).
 
+BI as a Service focuses on responding to requests: building dashboards, answering ad-hoc questions, and producing reports. While necessary, this model often creates bottlenecks and limits scalability. BI as a Product focuses on building reusable data foundations that empower teams to answer questions independently.
+
+The goal is to balance both models while shirnking the need for service-oriented BI overtime. 
+
+<br/>
+
+![](images/BIaaP%20vs%20BIaaS.jpg)
+
+<br/>
+
+## Leadership Framework: First 90 Days
+
+![](images/306090%20Framework.jpg)
+
+When stepping into a BI leadership role, the first 90 days should focus on learning, alignment, and execution.
+
+### First 30 Days: Learn and Assess
+Focus areas include:
+* understanding the business model
+* meeting key stakeholders
+* assessing the BI team and current capabilities
+* identifying top pain points
+* understanding current reporting workflows
+
+(This phase is primarily about listening and learning)
+
+### Days 30–60: Align and Prioritize
+Once the landscape is understood, the next step is organizing work around high-impact priorities.
+This includes:
+* identifying quick wins
+* prioritizing the analytics backlog
+* introducing structured intake and prioritization
+* aligning BI initiatives with business goals
+
+(This phase establishes the operating rhythm of the team)
+
+### Days 60–90: Execute and Refine
+In the final phase, the focus shifts toward execution.
+This includes:
+* delivering early wins
+* improving BI team processes
+* monitoring progress against priorities
+* refining the delivery framework
+
+(The goal is to demonstrate momentum while building long-term foundations)
+
+<br/>
+<br/>
+
+# Project Examples
 <br/>
 
 ### Example 1: Creating and Monitoring Agent & Department Goals
