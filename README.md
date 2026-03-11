@@ -1,4 +1,14 @@
+# Hi, I’m Jeff! 
+
+Thank you for taking some time to check out my ReadME - I lead Business Intelligence teams and enjoy building the systems that help organizations turn data into better decisions. My work has evolved from building dashboards to designing scalable analytics platforms, standardizing metrics, and helping BI teams operate as strategic partners to the business.
+
+I’m particularly interested in modern BI architecture, analytics engineering, and how teams move from reactive reporting to well-designed data platforms that enable self-service and trustworthy insights.
+
+This repository is where I capture some of my ideas, frameworks, and notes on BI strategy, data modeling, and building effective analytics teams.
+
+Outside of work, I enjoy running, traveling with my family, and a good book (often with a glass of whiskey nearby)! 
 <br/>
+
 
 ## Modern BI Strategy
 Modern BI teams sit at the intersection of engineering, product, and business strategy. The goal is not simply to build dashboards, but to create reliable data products that help organizations make decisions faster and with greater confidence.
